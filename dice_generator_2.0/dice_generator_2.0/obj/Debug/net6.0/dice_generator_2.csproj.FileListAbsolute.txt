@@ -1,0 +1,15 @@
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\dice_generator_2.csproj.AssemblyReference.cache
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\dice_generator_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\dice_generator_2.AssemblyInfoInputs.cache
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\dice_generator_2.AssemblyInfo.cs
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\dice_generator_2.csproj.CoreCompileInputs.cache
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\bin\Debug\net6.0\dice_generator_2.exe
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\bin\Debug\net6.0\dice_generator_2.deps.json
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\bin\Debug\net6.0\dice_generator_2.runtimeconfig.json
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\bin\Debug\net6.0\dice_generator_2.dll
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\bin\Debug\net6.0\dice_generator_2.pdb
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\dice_generator_2.dll
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\refint\dice_generator_2.dll
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\dice_generator_2.pdb
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\dice_generator_2.genruntimeconfig.cache
+C:\Users\Naval\source\repos\dice_generator_2.0\dice_generator_2.0\obj\Debug\net6.0\ref\dice_generator_2.dll
